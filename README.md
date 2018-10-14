@@ -4,4 +4,4 @@ This is the Annoucnements Channel where all the announcements are going to be po
 
 If you're wondering what the announcements can be, they are mostly birthdays and words of the week.
 
-Talk to you soon!
+
