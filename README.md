@@ -1,48 +1,14 @@
 {
-  "username": "Webhook",
-  "avatar_url": "https://i.imgur.com/4M34hi2.png",
-  "content": "Text message. Up to 2000 characters.",
-  "embeds": [
-    {
-      "author": {
-        "name": "Birdie♫",
-        "url": "https://www.reddit.com/r/cats/",
-        "icon_url": "https://i.imgur.com/R66g1Pe.jpg"
-      },
-      "title": "Title",
-      "url": "https://google.com/",
-      "description": "Text message. You can use Markdown here. *Italic* **bold** __underline__ ~~strikeout~~ [hyperlink](https://google.com) `code`",
-      "color": 15258703,
-      "fields": [
-        {
-          "name": "Text",
-          "value": "More text",
-          "inline": true
-        },
-        {
-          "name": "Even more text",
-          "value": "Yup",
-          "inline": true
-        },
-        {
-          "name": "Use `\"inline\": true` parameter, if you want to display fields in the same line.",
-          "value": "okay..."
-        },
-        {
-          "name": "Thanks!",
-          "value": "You're welcome :wink:"
-        }
-      ],
-      "thumbnail": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/4-Nature-Wallpapers-2014-1_ukaavUI.jpg"
-      },
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/A_picture_from_China_every_day_108.jpg"
-      },
-      "footer": {
-        "text": "Woah! So cool! :smirk:",
-        "icon_url": "https://i.imgur.com/fKL31aD.jpg"
-      }
+    "name": "test webhook",
+    "channel_id": "199737254929760256",
+    "token": "3d89bb7572e0fb30d8128367b3b1b44fecd1726de135cbe28a41f8b2f777c372ba2939e72279b94526ff5d1bd4358d65cf11",
+    "avatar": null,
+    "guild_id": "199737254929760256",
+    "id": "223704706495545344",
+    "user": {
+        "username": "test",
+        "discriminator": "7479",
+        "id": "190320984123768832",
+        "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
     }
-  ]
 }
